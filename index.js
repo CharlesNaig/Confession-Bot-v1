@@ -1,4 +1,3 @@
-
 const { token, prefix, guildID, confessionChannelID, logsChannelID, EmbedColor, ThumbnailPicture } = require("./data/config.json");
 const { Client, Intents, MessageEmbed, Message, Options } = require('discord.js');
 const fs = require("fs")
